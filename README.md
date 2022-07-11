@@ -1,5 +1,7 @@
 # Mailrelay | SMTP Relay 
 
+I am using:  https://github.com/wiggin77/mailrelay
+
 ## Docker ENV's
 
 - SMTP_HOST         | Default: null Ex: smtp.gmail.com
